@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Dev projects
-- 📫 How to reach me 
-- github username: rohitKumar38344
+- 📫 How to reach me: rohitkumar38344@gmail.com
+
 
 <!---
 rohitKumar38344/rohitKumar38344 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
