@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Dev projects
-- 📫 How to reach me: rohitkumar38344@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/rohit-kumar-59714521a/
 
 
 <!---
