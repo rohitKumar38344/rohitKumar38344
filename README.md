@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rohit kumar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Express
 - 💞️ I’m looking to collaborate on Web Dev projects
 - 📫 How to reach me: https://www.linkedin.com/in/rohit-kumar-59714521a/
 
