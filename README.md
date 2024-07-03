@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rohitKumar38344](https://github.com/rohitKumar38344)
+- 👨‍💻 All of my projects are available at [github](https://github.com/rohitKumar38344)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rohittkumar/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CVJd4qzX4F03xiPGYW-uZrDRCnQblCq_/view?usp=drive_link](https://drive.google.com/file/d/1CVJd4qzX4F03xiPGYW-uZrDRCnQblCq_/view?usp=drive_link)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1CVJd4qzX4F03xiPGYW-uZrDRCnQblCq_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
