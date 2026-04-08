@@ -1,27 +1,40 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Rohit Kumar — Frontend Developer
 
-- 🌱 I’m currently learning **Next.js**
+React · TypeScript · Next.js · Redux Toolkit · Tailwind CSS
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/rohitKumar38344)
+I build frontend applications with a focus on clean state architecture, accessible UI, and real-world patterns. Currently looking for junior frontend roles.
 
-- 💬 Ask me about **React**
+---
 
-- 📫 How to reach me **https://www.linkedin.com/in/rohittkumar/**
+## Projects
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1CVJd4qzX4F03xiPGYW-uZrDRCnQblCq_/view?usp=drive_link)
+### [FlowBoard](https://github.com/rohitKumar38344/FlowBoard) — Kanban Task Manager
+Full-featured kanban board with multiple boards, columns, tasks, and subtasks. Built with React 19, TypeScript, Redux Toolkit (`createEntityAdapter` for normalised state), React Hook Form + Zod validation, shadcn/ui, and localStorage persistence via custom middleware.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_iamrohitkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_iamrohitkumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohittkumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohittkumar/" height="30" width="40" /></a>
-</p>
+**[Live Demo →](https://boardwhiz.netlify.app/)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### [Dylan Estate](https://github.com/rohitKumar38344/dylan-estate) — Real Estate Platform
+Figma-to-code assignment completed for a real estate company's candidate evaluation. Pixel-perfect responsive UI built with React, TypeScript, and Tailwind CSS. Deployed on Vercel.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitkumar38344&show_icons=true&locale=en&layout=compact" alt="rohitkumar38344" /></p>
+**[Live Demo →](https://dylan-estate-tawny.vercel.app/)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkumar38344&show_icons=true&locale=en" alt="rohitkumar38344" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkumar38344&" alt="rohitkumar38344" /></p>
+## Open Source
+
+**[Formik](https://github.com/jaredpalmer/formik)** — [PR merged](https://github.com/jaredpalmer/formik/pull/3998) fixing documentation inconsistencies.
+
+---
+
+## Currently
+
+- Building drag-and-drop into FlowBoard with `@dnd-kit`
+- Learning Next.js App Router, Server Components, and Prisma
+- Applying for junior frontend roles — React + TypeScript stack
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/rohittkumar](https://linkedin.com/in/rohittkumar)
+- Email: rohitkumar38344@gmail.com
