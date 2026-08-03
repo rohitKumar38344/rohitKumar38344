@@ -48,6 +48,6 @@ Merged a documentation fix to [Formik](https://github.com/jaredpalmer/formik/pul
 
 ### 📫 Reach me
 
-[LinkedIn](https://linkedin.com/in/rohitkumar) · rohitkumar38344@gmail.com
+[LinkedIn](https://linkedin.com/in/rohittkumar) · rohitkumar38344@gmail.com
 
 Currently open to Full-Stack, Frontend, and Web Developer roles — remote, hybrid, or onsite.
