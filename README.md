@@ -1,40 +1,53 @@
-# Rohit Kumar — Frontend Developer
+### Hi, I'm Rohit 👋
 
-React · TypeScript · Next.js · Redux Toolkit · Tailwind CSS
+Full-Stack Developer building with React, Next.js, TypeScript, and PostgreSQL.
 
-I build frontend applications with a focus on clean state architecture, accessible UI, and real-world patterns. Currently looking for junior frontend roles.
-
----
-
-## Projects
-
-### [FlowBoard](https://github.com/rohitKumar38344/FlowBoard) — Kanban Task Manager
-Full-featured kanban board with multiple boards, columns, tasks, and subtasks. Built with React 19, TypeScript, Redux Toolkit (`createEntityAdapter` for normalised state), React Hook Form + Zod validation, shadcn/ui, and localStorage persistence via custom middleware.
-
-**[Live Demo →](https://boardwhiz.netlify.app/)**
-
-### [Dylan Estate](https://github.com/rohitKumar38344/dylan-estate) — Real Estate Platform
-Figma-to-code assignment completed for a real estate company's candidate evaluation. Pixel-perfect responsive UI built with React, TypeScript, and Tailwind CSS. Deployed on Vercel.
-
-**[Live Demo →](https://dylan-estate-tawny.vercel.app/)**
+I care about performance, clean data modeling, and understanding a system deeply enough to defend every decision in it — not just shipping something that works.
 
 ---
 
-## Open Source
+### 🔧 What I work with
 
-**[Formik](https://github.com/jaredpalmer/formik)** — [PR merged](https://github.com/jaredpalmer/formik/pull/3998) fixing documentation inconsistencies.
+**Languages:** JavaScript (ES6+) · TypeScript · HTML5 · CSS3
+
+**Frontend:** React.js · Next.js · Redux Toolkit · React Router · React Hook Form · Zod · Tailwind CSS · shadcn/ui
+
+**Backend & Database:** Node.js · PostgreSQL · Prisma ORM · REST APIs · Clerk Authentication
+
+**Performance:** Lighthouse · Core Web Vitals · Lazy Loading · Code Splitting · Image Optimization
+
+**Tools:** Git · GitHub · VS Code · Vite · Figma
 
 ---
 
-## Currently
+### 🚀 What I'm building
 
-- Building drag-and-drop into FlowBoard with `@dnd-kit`
-- Learning Next.js App Router, Server Components, and Prisma
-- Applying for junior frontend roles — React + TypeScript stack
+**[SchoolSphere](https://github.com/rohitKumar38344/school-dashboard)**
+Role-based school management dashboard — Next.js, TypeScript, PostgreSQL, Prisma, Clerk.
+Full authentication and role-aware access across admins, teachers, students, and parents. Relational schema covering academic records, attendance, results, and events, with server-side validation via Zod and React Hook Form.
+*Actively in development.*
+
+**[FlowBoard](https://github.com/rohitKumar38344/FlowBoard)** · [Live Demo](https://flow-board-eosin.vercel.app/)
+Kanban board — React, TypeScript, Redux Toolkit.
+Normalized state via `createEntityAdapter` across four slices, native HTML Drag & Drop for task management, custom Redux middleware for localStorage persistence, and dynamic forms with React Hook Form + Zod.
 
 ---
 
-## Contact
+### 💼 Experience
 
-- LinkedIn: [linkedin.com/in/rohittkumar](https://linkedin.com/in/rohittkumar)
-- Email: rohitkumar38344@gmail.com
+**Software Developer Trainee** — Bonami Software (Jul 2024 – Dec 2024)
+Optimized LeadVision, a media-rich website for a multimedia company. Implemented lazy loading, WebP compression, and code splitting, improving Core Web Vitals scores measured via Lighthouse.
+
+---
+
+### 🌱 Open Source
+
+Merged a documentation fix to [Formik](https://github.com/jaredpalmer/formik/pull/3998) (33M+ weekly npm downloads).
+
+---
+
+### 📫 Reach me
+
+[LinkedIn](https://linkedin.com/in/rohitkumar) · rohitkumar38344@gmail.com
+
+Currently open to Full-Stack, Frontend, and Web Developer roles — remote, hybrid, or onsite.
